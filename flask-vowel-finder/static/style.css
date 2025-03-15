@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    justify-items: center;
+    color: black;
+}
+
+.main-area{
+    width: 70%;
+    height: 70%;
+    background-color: grey;
+    padding: 20px;
+    box-shadow: 10px 10px 7px black;
+    justify-items: center;
+}
+
+.text-heading{
+    color: black;
+    font-size: xx-large;
+}
+

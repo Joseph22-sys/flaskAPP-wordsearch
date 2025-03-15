@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+    {% block body %}
+        <form method="POST" action="/result" class="main-area">
+            <p class="text-heading">Welcome To Search For Vowel</p>
+            <div>
+                <p>Use this form to submit a search request</p>
+                <h3>Phrase: </h3><input name="phrase" type="text" class="input-box phrase-input">
+                <h3>Letters: </h3><input name="letter" type="text" class="input-box letters-input" value="aeiou">
+                <p>Whe you are ready click this link</p>
+            </div>
+            <button>Do it</button>
+        </form>
+    {% endblock body %}
