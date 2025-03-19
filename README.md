@@ -1,7 +1,7 @@
 # flaskAPP-wordsearch
 This project was created when I was starting out as a Python DEV
 
-# A Web App That Checks for Letters In sentences
+# The Web App Checks for Letters In sentences and saves user input and data to a Database
 
 ## Features
 - **CRUD Operations:** Specifically user data collection.
